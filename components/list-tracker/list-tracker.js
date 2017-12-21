@@ -1,3 +1,4 @@
 'use strict';
 
-angular.module('list.tracker', []);
+angular
+  .module('list.tracker', []);

@@ -1,3 +1,4 @@
 'use strict';
 
-angular.module('search.bar', []);
+angular
+  .module('search.bar', []);
