@@ -6,6 +6,4 @@ angular
 
 function SearchBarController() {
   var sBarVm = this;
-  sBarVm.list = [];
-  
 }
