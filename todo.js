@@ -1,4 +1,8 @@
 'use strict';
 
 angular
-  .module('toDoApp', []);
+  .module('toDoApp', 
+    ['list.tracker',
+      'search.bar',
+      'search.list',
+      'title']);
