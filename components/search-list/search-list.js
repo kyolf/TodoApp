@@ -1,4 +1,5 @@
 'use strict';
 
 angular
-  .module('search.list', []);
+  .module('search.list', 
+          ['list.tracker']);
